@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World 👋️<br>I am Mbuthi Mungai, a software engineer by passion living in Nairobi Kenya. <br>I build web apps with the flask Python programming language framework.<br><br><br>🔭️ I'm currently working on building a text messaging application that has an end to end encryption.<br>👨‍👨‍👧‍👦️ I'm looking to collaborate on an open-source customer ordering application.<br>🌱️ I'm currently learning web sockets implementation with Flask-socketIO.<br>💬️ Ask me about Flask framework, APIs.<br>⚡️ Fun Fact ~' Most programmers are introverts because they like abstraction 😂️'.
+Hello World 👋️<br>I am Mbuthi Mungai, a software engineer by passion living in Nairobi Kenya.</br>
 
 
 ## 🌐 Socials:
