@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World 👋️<br>I am Mbuthi Mungai, a software engineer by passion living in Nairobi Kenya.</br>
+<br>I am Mbuthi Mungai, a software engineer by passion living in Nairobi Kenya.</br>
 
 
 ## 🌐 Socials:
