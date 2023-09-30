@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <br>I am Mbuthi Mungai, a software engineer by passion living in Nairobi Kenya.</br>
-<br>I work in the python ecosystem, currently learning data engineering</br>
+<br>I work in the python ecosystem.</br>
 
 
 ## 🌐 Socials:
